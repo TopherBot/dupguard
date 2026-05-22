@@ -1,0 +1,15 @@
+# Byte‑code & caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Virtual envs
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
